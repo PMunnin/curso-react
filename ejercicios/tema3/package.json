@@ -1,0 +1,40 @@
+{
+  "name": "curso-react-tema3",
+  "version": "1.0.0",
+  "description": "Materiales del tema1 del curso React.js y Redux de Redatomic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server -d --hot --inline",
+    "build": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redatomic/curso-react.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "redatomic"
+  ],
+  "author": "Carlos de la Orden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Redatomic/curso-react/issues"
+  },
+  "homepage": "https://github.com/Redatomic/curso-react#readme",
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "cross-env": "^2.0.1",
+    "react-hot-loader": "^1.3.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1"
+  }
+}

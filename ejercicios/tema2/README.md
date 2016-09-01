@@ -20,7 +20,7 @@ Arrancar el servidor de desarrollo y recompilar el código:
 npm start
 ```
 
-Tu aplicación estará disponible en [http://localhost:8080]
+Tu aplicación estará disponible en http://localhost:8080
 
 Generar bundle de producción (sin servidor de desarrollo):
 ```
@@ -30,4 +30,4 @@ npm run build
 ## Requisitos
 Necesitas tener instalado **node.js** en tu equipo. Puedes descargarlo para tu sistema operativo desde el sitio Web de node.js.
 
-[https://nodejs.org/es/]
+https://nodejs.org/es/

@@ -23,7 +23,7 @@ Materiales del curso online de React.js y Redux en RedAtomic.
 - Eventos
 - Ejercicio 3 - Contador
 
-## 3. UI complejas mediante composición
+## 3. UIs complejas mediante composición
 - Componentes padre y componentes hijo
 - Comunicación hijo a padre
 - Ejercicio 1 - Cronómetro

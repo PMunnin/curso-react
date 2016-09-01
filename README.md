@@ -41,12 +41,11 @@ Materiales del curso online de React.js y Redux en RedAtomic.
 - Acciones
 - Reducers
 - Store de Redux
-- Combinación reducers
+- Combinación de reducers
 - Conectar Redux y React
 - Organización del código
 - Ejercicio 1 - Ecommerce: instalar Redux, módulo Route
 - Ejercicio 2 - Ecommerce: módulo Catalog
-- Encapsular acceso al estado con reselect
 - Ejercicio 3 - Ecommerce: módulo Cart
 - Mapear dispatch a props
 - Ejercicio 4 - Ecommerce: componente Cart

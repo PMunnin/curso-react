@@ -1,5 +1,5 @@
 {
-  "name": "curso-react-tema3",
+  "name": "curso-react-tema4",
   "version": "1.0.0",
   "description": "Materiales del tema1 del curso React.js y Redux de Redatomic",
   "main": "index.js",
@@ -25,7 +25,10 @@
   "homepage": "https://github.com/Redatomic/curso-react#readme",
   "dependencies": {
     "react": "^15.3.1",
-    "react-dom": "^15.3.1"
+    "react-dom": "^15.3.1",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-thunk": "^2.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.14.0",

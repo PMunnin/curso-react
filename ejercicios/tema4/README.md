@@ -11,7 +11,7 @@ Archivos de configuración listos:
 Código auxiliar:
 
 - `src/data/catalog.js` - productos para Ecommerce
-- `src/components/ecommerce/` - aplicación Ecommerce implementada en React durante el tema anterior
+- `src/components/ecommerce/` - aplicación Ecommerce implementada con React durante el tema anterior
 
 Plantillas HTML:
 
